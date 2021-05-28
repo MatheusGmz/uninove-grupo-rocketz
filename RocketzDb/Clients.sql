@@ -1,9 +1,0 @@
-﻿CREATE TABLE [dbo].[Clients]
-(
-	[Id] INT NOT NULL PRIMARY KEY,
-	[Name] VARCHAR	NOT NULL,
-	[Cpf] VARCHAR NOT NULL,
-	[Email] VARCHAR NOT NULL,
-	[Delete] BIT NOT NULL
-
- )
